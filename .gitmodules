@@ -1,0 +1,6 @@
+[submodule "scratch-vm"]
+	path = scratch-vm
+	url = https://github.com/scratchfoundation/scratch-vm
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = https://github.com/scratchfoundation/scratch-gui
